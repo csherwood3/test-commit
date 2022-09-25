@@ -1,1 +1,1 @@
-This repo is for CS 361's first requirement.
+This repo is for CS 361 Assignment 1 (first requirement).
